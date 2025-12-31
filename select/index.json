@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "snow jam",
+  "base_artist": "Rin音",
+  "createdAt": "2025-12-31T16:14:35.361940Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Worry Kyoko (Mummy's Only Looking For A Hand In The Snow) [Jam]",
+      "artist": "Yoko Ono",
+      "has_synced": false,
+      "path": "select/01_Don't_Worry_Kyoko_(Mummy's_Only_Looking_For_A_Hand_In_The_Snow)_[Jam]_Yoko_Ono.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "snow jam",
+      "artist": "Rinne",
+      "has_synced": true,
+      "path": "select/02_snow_jam_Rinne.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "snow jam",
+      "artist": "Rin音",
+      "has_synced": true,
+      "path": "select/03_snow_jam_Rin音.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "snow jam",
+      "artist": "Rin音",
+      "has_synced": true,
+      "path": "select/04_snow_jam_Rin音.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Worry Kyoko (Mummy's Only Looking For A Hand In The Snow) (Jam)",
+      "artist": "Yoko Ono",
+      "has_synced": false,
+      "path": "select/05_Don't_Worry_Kyoko_(Mummy's_Only_Looking_For_A_Hand_In_The_Snow)_(Jam)_Yoko_Ono.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "snow jam",
+      "artist": "Rinne",
+      "has_synced": true,
+      "path": "select/06_snow_jam_Rinne.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "snow jam",
+      "artist": "Rin音",
+      "has_synced": true,
+      "path": "select/07_snow_jam_Rin音.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Snow Jam (From THE FIRST TAKE)",
+      "artist": "Rinne",
+      "has_synced": true,
+      "path": "select/08_Snow_Jam_(From_THE_FIRST_TAKE)_Rinne.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Snow Jam (From THE FIRST TAKE)",
+      "artist": "Rinne",
+      "has_synced": true,
+      "path": "select/09_Snow_Jam_(From_THE_FIRST_TAKE)_Rinne.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don’t Worry Kyoko (Mummy’s Only Looking for a Hand in the Snow) (jam)",
+      "artist": "Yoko Ono",
+      "has_synced": false,
+      "path": "select/10_Don’t_Worry_Kyoko_(Mummy’s_Only_Looking_for_a_Hand_in_the_Snow)_(jam)_Yoko_Ono.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "snow jam",
+      "artist": "Rin音",
+      "has_synced": false,
+      "path": "select/pl_01_snow_jam_Rin音.txt"
+    }
+  ]
+}
